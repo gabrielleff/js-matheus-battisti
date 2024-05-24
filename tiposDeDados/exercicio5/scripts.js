@@ -1,0 +1,1 @@
+console.log("nao é numero" * 255);
